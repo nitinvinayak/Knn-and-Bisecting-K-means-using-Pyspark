@@ -1,0 +1,1 @@
+ACCURACY = 100.0 in 26.74254929598205 SECONDS FOR 5 neighbours  and 10 testcases
