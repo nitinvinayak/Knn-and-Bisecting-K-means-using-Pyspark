@@ -1,4 +1,4 @@
-# ML-using-MapReduce-and-PySpark
+# ML-using-PySpark
 CS F320: Foundations of Data Science Assignment
 
 ## KNN and Bisecting Kmeans implementation on PySpark
